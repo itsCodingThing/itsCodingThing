@@ -1,3 +1,12 @@
+<a href="https://itsCodingThing.com">
+  <img
+    alt="Helping people make the world a better place through quality software"
+    src="https://raw.githubusercontent.com/itsCodingThing/itsCodingThing/main/itsCodingThing.png"
+  />
+</a>
+
+[Learn more about me](https://itsCodingThing.com)
+
 ### Hi there 👋
 
 <!--
